@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AVA_GRP2_HHN.iml" filepath="$PROJECT_DIR$/AVA_GRP2_HHN.iml" />
       <module fileurl="file://$PROJECT_DIR$/Projekt_Nativ.iml" filepath="$PROJECT_DIR$/Projekt_Nativ.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
